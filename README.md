@@ -1,5 +1,4 @@
 # DL_practical_problems
 
 
-
-first HW coming soon!
+hw1 is about pytorch basics and the main notebook is about optimization method.
