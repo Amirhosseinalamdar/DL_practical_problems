@@ -9,4 +9,5 @@ hw1 contains 3 main notebooks
 ## HW2
 * HW2_CNN_TODO is introducing us to CNN architectures and asks us to implement a CNN arch on our choice, acquiring acc more than a threshold t. Also introduces us to feature maps.
 * YOLO was about the YOLO model which is a CNN model of object detection. We implemented it from scratch.
-* The last notebook is about implementing and training ResNet18 and UNet(for colorization).
+* The last notebook is about implementing and training ResNet18 and UNet(for colorization) on Cifar10.
+
