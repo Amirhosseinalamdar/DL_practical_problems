@@ -11,3 +11,5 @@ hw1 contains 3 main notebooks
 * YOLO was about the YOLO model which is a CNN model of object detection. We implemented it from scratch.
 * The last notebook is about implementing and training ResNet18 and UNet(for colorization) on Cifar10.
 
+## HW3
+this hw is about transformers and will be added soon
