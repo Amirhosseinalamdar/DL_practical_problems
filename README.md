@@ -27,4 +27,10 @@ this hw, contains 4 notebooks:
 * iTransformer:
   1. It was a long time series problem in which, v variables were changing over time and the task was predicting the next time step values. In the first part, I trained a transformer and gave the series to the encoder and decoder. the result was good but not the best.
   2. The second part, was implementing iTransformer. iTransformer is the recent breakthrough in time series (the paper is indexed at ICLR 2024). I re-implemented iTransformer and achieved very great results.
+## HW4 Generative Models:
+  1. Implementing and comparing GAN and VAE to generate images from MNIST.
+  2. Implementing a little bit different UNet for DDPM to generate captcha.
+## HW5:
+  1. from advanced topics. will be added soon.
+  
   
