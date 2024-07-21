@@ -29,8 +29,11 @@ this hw, contains 4 notebooks:
   2. The second part, was implementing iTransformer. iTransformer is the recent breakthrough in time series (the paper is indexed at ICLR 2024). I re-implemented iTransformer and achieved very great results.
 ## HW4 Generative Models:
   1. Implementing and comparing GAN and VAE to generate images from MNIST.
-  2. Implementing a little bit different UNet for DDPM to generate captcha.
+  2. Implementing a little bit different UNet for DDPM to generate captcha images.
 ## HW5:
-  1. from advanced topics. will be added soon.
+  1. testing FGSM and PGD attacks on MNIST images and Trying to make renset robust against these attacks.
+  2. Using Dino for a downstream task. (classifying if images contain solar panels. if yes trying to predict their area)
+  3. Using Conditional Diffusion with classifier free and addtional guidance to generate image given text. +Training DreamBooth to add a fluffy dog in our generated images.
+  
   
   
